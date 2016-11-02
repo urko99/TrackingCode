@@ -1,0 +1,25 @@
+{
+    "name": "ceneje/conversion",
+    "description": "Ceneje.si Conversion Reporting extension for Magento 2",
+    "type": "magento2-module",
+    "version": "0.1.0",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "require": {
+        "php": "~5.6.0|~7.0.0"
+    },
+    "authors": [{
+        "name": "Uros Grilc",
+        "email": "info@urosgrilc.com",
+        "homepage": "http://www.urosgrilc.com/",
+        "role": "Developer"
+    }],
+    "autoload": {
+        "files": ["registration.php"],
+        "psr-4": {
+            "Ceneje\\Conversion\\": ""
+        }
+    }
+}

@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Conversion Rate Reporting
+ *
+ * @author    Uros Grilc <info@urosgrilc.com>
+ * @category  Ceneje
+ * @package   Conversion
+ * @copyright Copyright (c) 2016 Ceneje d.o.o. (https://www.ceneje.si)
+ */
+-->
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../lib/internal/Magento/Framework/App/etc/routes.xsd">
+    <router id="admin">
+        <route id="ceneje_conversion" frontName="ceneje_conversion">
+            <module name="Ceneje_Conversion"/>
+        </route>
+    </router>
+</config>
