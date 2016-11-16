@@ -1,6 +1,6 @@
 {
-    "name": "ceneje/conversion",
-    "description": "Ceneje.si Conversion Reporting extension for Magento 2",
+    "name": "shoppersmind/trackingcode",
+    "description": "Shopper's mind certified shop satisfaction survey module for Magento 2",
     "type": "magento2-module",
     "version": "0.1.0",
     "license": [
@@ -19,7 +19,7 @@
     "autoload": {
         "files": ["registration.php"],
         "psr-4": {
-            "Ceneje\\Conversion\\": ""
+            "ShoppersMind\\TrackingCode\\": ""
         }
     }
 }

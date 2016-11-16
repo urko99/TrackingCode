@@ -1,14 +1,14 @@
 <?php
 /**
- * Conversion Rate Reporting
+ * Shopper's mind certified shop satisfaction survey
  *
  * @author    Uros Grilc <info@urosgrilc.com>
- * @category  Ceneje
- * @package   Conversion
+ * @category  ShoppersMind
+ * @package   TrackingCode
  * @copyright Copyright (c) 2016 Ceneje d.o.o. (https://www.ceneje.si)
  */
 
-namespace Ceneje\Conversion\Model\Config\Source;
+namespace ShoppersMind\TrackingCode\Model\Config\Source;
 
 use Magento\Framework\Data\OptionSourceInterface;
 

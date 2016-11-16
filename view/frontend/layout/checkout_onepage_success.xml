@@ -1,18 +1,18 @@
 <?xml version="1.0"?>
 <!--
 /**
- * Conversion Rate Reporting
+ * Shopper's mind certified shop satisfaction survey
  *
  * @author    Uros Grilc <info@urosgrilc.com>
- * @category  Ceneje
- * @package   Conversion
+ * @category  ShoppersMind
+ * @package   TrackingCode
  * @copyright Copyright (c) 2016 Ceneje d.o.o. (https://www.ceneje.si)
  */
 -->
 <page xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" layout="1column" xsi:noNamespaceSchemaLocation="urn:magento:framework:View/Layout/etc/page_configuration.xsd">
     <body>
         <referenceContainer name="before.body.end">
-            <block class="Ceneje\Conversion\Block\Code" name="ceneje_conversion" template="Ceneje_Conversion::code.phtml"/>
+            <block class="ShoppersMind\TrackingCode\Block\Code" name="shoppersmind_trackingcode" template="ShoppersMind_TrackingCode::code.phtml"/>
         </referenceContainer>
     </body>
 </page>

@@ -2,6 +2,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE,
-    'Ceneje_Conversion',
+    'ShoppersMind_TrackingCode',
     __DIR__
 );
