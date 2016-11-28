@@ -22,9 +22,9 @@ class Country implements OptionSourceInterface
      */
     public function toOptionArray()
     {
-        return [
-            ['value' => 'sl', 'label' => __('Slovenia')],
-            ['value' => 'hr', 'label' => __('Croatia')]
-        ];
+        return array(
+            array('value' => 'sl', 'label' => __('Slovenia')),
+            array('value' => 'hr', 'label' => __('Croatia'))
+        );
     }
 }

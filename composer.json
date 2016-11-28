@@ -2,7 +2,7 @@
     "name": "shoppersmind/trackingcode",
     "description": "Shopper's mind certified shop satisfaction survey module for Magento 2",
     "type": "magento2-module",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "license": [
         "OSL-3.0",
         "AFL-3.0"
