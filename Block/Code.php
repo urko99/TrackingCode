@@ -3,17 +3,17 @@
  * Shopper's mind certified shop satisfaction survey
  *
  * @author    Uros Grilc <info@urosgrilc.com>
- * @category  ShoppersMind
+ * @category  SMind
  * @package   TrackingCode
  * @copyright Copyright (c) 2016 Ceneje d.o.o. (https://www.ceneje.si)
  */
 
-namespace ShoppersMind\TrackingCode\Block;
+namespace SMind\TrackingCode\Block;
 
 use Magento\Checkout\Model\Session;
 use Magento\Sales\Model\Order;
 use Magento\Framework\View\Element\Template\Context;
-use ShoppersMind\TrackingCode\Helper\Data;
+use SMind\TrackingCode\Helper\Data;
 
 class Code extends \Magento\Framework\View\Element\Template
 {

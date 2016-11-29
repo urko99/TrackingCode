@@ -4,18 +4,18 @@
  * Shopper's mind certified shop satisfaction survey
  *
  * @author    Uros Grilc <info@urosgrilc.com>
- * @category  ShoppersMind
+ * @category  SMind
  * @package   TrackingCode
  * @copyright Copyright (c) 2016 Ceneje d.o.o. (https://www.ceneje.si)
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Store:etc/config.xsd">
     <default>
-        <shoppersmind_trackingcode>
+        <smind_trackingcode>
             <general>
                 <enabled>0</enabled>
                 <country>sl</country>
             </general>
-        </shoppersmind_trackingcode>
+        </smind_trackingcode>
     </default>
 </config>

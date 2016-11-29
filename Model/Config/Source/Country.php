@@ -3,12 +3,12 @@
  * Shopper's mind certified shop satisfaction survey
  *
  * @author    Uros Grilc <info@urosgrilc.com>
- * @category  ShoppersMind
+ * @category  SMind
  * @package   TrackingCode
  * @copyright Copyright (c) 2016 Ceneje d.o.o. (https://www.ceneje.si)
  */
 
-namespace ShoppersMind\TrackingCode\Model\Config\Source;
+namespace SMind\TrackingCode\Model\Config\Source;
 
 use Magento\Framework\Data\OptionSourceInterface;
 

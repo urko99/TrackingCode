@@ -4,15 +4,15 @@
  * Shopper's mind certified shop satisfaction survey
  *
  * @author    Uros Grilc <info@urosgrilc.com>
- * @category  ShoppersMind
+ * @category  SMind
  * @package   TrackingCode
  * @copyright Copyright (c) 2016 Ceneje d.o.o. (https://www.ceneje.si)
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../../../lib/internal/Magento/Framework/App/etc/routes.xsd">
     <router id="admin">
-        <route id="shoppersmind_trackingcode" frontName="shoppersmind_trackingcode">
-            <module name="ShoppersMind_TrackingCode"/>
+        <route id="smind_trackingcode" frontName="smind_trackingcode">
+            <module name="SMind_TrackingCode"/>
         </route>
     </router>
 </config>

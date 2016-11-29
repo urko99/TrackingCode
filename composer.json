@@ -1,5 +1,5 @@
 {
-    "name": "shoppersmind/trackingcode",
+    "name": "smind/trackingcode",
     "description": "Shopper's mind certified shop satisfaction survey module for Magento 2",
     "type": "magento2-module",
     "version": "0.1.1",
@@ -19,7 +19,7 @@
     "autoload": {
         "files": ["registration.php"],
         "psr-4": {
-            "ShoppersMind\\TrackingCode\\": ""
+            "SMind\\TrackingCode\\": ""
         }
     }
 }
